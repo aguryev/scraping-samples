@@ -1,0 +1,7 @@
+venv
+__pycache__
+webdriver
+
+*.db
+*.html
+*.log
